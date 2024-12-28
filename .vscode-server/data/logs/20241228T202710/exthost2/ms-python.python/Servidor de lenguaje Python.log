@@ -1,0 +1,44 @@
+2024-12-28 20:41:59.599 [info] (Client) Pylance async client (2024.12.1) started with python extension (2024.22.1)
+2024-12-28 20:41:59.827 [info] [Info  - 8:41:59 PM] (8032) Server root directory: file:///home/guille/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2024-12-28 20:41:59.827 [info] [Info  - 8:41:59 PM] (8032) Pylance language server 2024.12.1 (pyright version 1.1.389, commit ce1325fc) starting
+2024-12-28 20:41:59.827 [info] [Info  - 8:41:59 PM] (8032) Starting service instance "guille"
+2024-12-28 20:41:59.848 [info] [Info  - 8:41:59 PM] (8032) Setting environmentName for service "guille": "3.12.3 (global)"
+2024-12-28 20:41:59.848 [info] [Info  - 8:41:59 PM] (8032) Setting pythonPath for service "guille": "/bin/python3"
+2024-12-28 20:41:59.849 [info] [Info  - 8:41:59 PM] (8032) No include entries specified; assuming /home/guille
+2024-12-28 20:41:59.849 [info] [Info  - 8:41:59 PM] (8032) Auto-excluding **/node_modules
+2024-12-28 20:41:59.849 [info] [Info  - 8:41:59 PM] (8032) Auto-excluding **/__pycache__
+2024-12-28 20:41:59.849 [info] [Info  - 8:41:59 PM] (8032) Auto-excluding **/.*
+2024-12-28 20:41:59.862 [info] [Info  - 8:41:59 PM] (8032) Assuming Python version 3.12.3.final.0
+2024-12-28 20:41:59.892 [info] [Info  - 8:41:59 PM] (8032) No source files found.
+2024-12-28 20:42:00.064 [info] [Info  - 8:42:00 PM] (8032) Background analysis(1) root directory: file:///home/guille/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2024-12-28 20:42:00.066 [info] [Info  - 8:42:00 PM] (8032) Background analysis(1) started
+2024-12-28 20:49:16.287 [info] [Info  - 8:49:16 PM] Server process exited successfully
+2024-12-28 20:49:16.841 [info] (Client) Pylance async client (2024.12.1) started with python extension (2024.22.1)
+2024-12-28 20:49:17.036 [info] [Info  - 8:49:17 PM] (9436) Server root directory: file:///home/guille/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2024-12-28 20:49:17.036 [info] [Info  - 8:49:17 PM] (9436) Pylance language server 2024.12.1 (pyright version 1.1.389, commit ce1325fc) starting
+2024-12-28 20:49:17.039 [info] [Info  - 8:49:17 PM] (9436) Starting service instance "guille"
+2024-12-28 20:49:17.057 [info] [Info  - 8:49:17 PM] (9436) Setting environmentName for service "guille": "3.12.3 (global)"
+2024-12-28 20:49:17.057 [info] [Info  - 8:49:17 PM] (9436) Setting pythonPath for service "guille": "/bin/python3"
+2024-12-28 20:49:17.057 [info] [Info  - 8:49:17 PM] (9436) No include entries specified; assuming /home/guille
+2024-12-28 20:49:17.058 [info] [Info  - 8:49:17 PM] (9436) Auto-excluding **/node_modules
+2024-12-28 20:49:17.058 [info] [Info  - 8:49:17 PM] (9436) Auto-excluding **/__pycache__
+2024-12-28 20:49:17.058 [info] [Info  - 8:49:17 PM] (9436) Auto-excluding **/.*
+2024-12-28 20:49:17.082 [info] [Info  - 8:49:17 PM] (9436) Assuming Python version 3.12.3.final.0
+2024-12-28 20:49:17.148 [info] [Info  - 8:49:17 PM] (9436) No source files found.
+2024-12-28 20:49:17.279 [info] [Info  - 8:49:17 PM] (9436) Background analysis(1) root directory: file:///home/guille/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2024-12-28 20:49:17.280 [info] [Info  - 8:49:17 PM] (9436) Background analysis(1) started
+2024-12-28 20:50:38.193 [info] [Info  - 8:50:38 PM] Server process exited successfully
+2024-12-28 20:50:38.747 [info] (Client) Pylance async client (2024.12.1) started with python extension (2024.22.1)
+2024-12-28 20:50:38.959 [info] [Info  - 8:50:38 PM] (9711) Server root directory: file:///home/guille/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2024-12-28 20:50:38.959 [info] [Info  - 8:50:38 PM] (9711) Pylance language server 2024.12.1 (pyright version 1.1.389, commit ce1325fc) starting
+2024-12-28 20:50:38.962 [info] [Info  - 8:50:38 PM] (9711) Starting service instance "guille"
+2024-12-28 20:50:38.981 [info] [Info  - 8:50:38 PM] (9711) Setting environmentName for service "guille": "3.12.3 (global)"
+2024-12-28 20:50:38.981 [info] [Info  - 8:50:38 PM] (9711) Setting pythonPath for service "guille": "/bin/python3"
+2024-12-28 20:50:38.981 [info] [Info  - 8:50:38 PM] (9711) No include entries specified; assuming /home/guille
+2024-12-28 20:50:38.982 [info] [Info  - 8:50:38 PM] (9711) Auto-excluding **/node_modules
+2024-12-28 20:50:38.982 [info] [Info  - 8:50:38 PM] (9711) Auto-excluding **/__pycache__
+2024-12-28 20:50:38.982 [info] [Info  - 8:50:38 PM] (9711) Auto-excluding **/.*
+2024-12-28 20:50:39.008 [info] [Info  - 8:50:39 PM] (9711) Assuming Python version 3.12.3.final.0
+2024-12-28 20:50:39.056 [info] [Info  - 8:50:39 PM] (9711) No source files found.
+2024-12-28 20:50:39.202 [info] [Info  - 8:50:39 PM] (9711) Background analysis(1) root directory: file:///home/guille/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2024-12-28 20:50:39.204 [info] [Info  - 8:50:39 PM] (9711) Background analysis(1) started

@@ -1,0 +1,29 @@
+2024-12-28 20:39:44.272 [info] Extension host with pid 7510 started
+2024-12-28 20:39:44.277 [info] Lock '/home/guille/.vscode-server/data/User/workspaceStorage/bf81d804f09e1deb80b5a783d09bf8f0/vscode.lock': Lock acquired.
+2024-12-28 20:39:44.327 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-12-28 20:39:44.403 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-12-28 20:39:44.403 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-12-28 20:39:44.558 [info] Eager extensions activated
+2024-12-28 20:39:44.558 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-12-28 20:39:44.558 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-12-28 20:41:39.479 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-12-28 20:41:58.083 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onWalkthrough:pythonWelcome'
+2024-12-28 20:41:58.172 [warning] Using default string since no string found in i18n bundle that has the key: Source map support is enabled in the Python Extension, this will adversely impact performance of the extension.
+2024-12-28 20:41:58.172 [warning] Using default string since no string found in i18n bundle that has the key: Disable Source Map Support
+2024-12-28 20:41:58.172 [warning] Using default string since no string found in i18n bundle that has the key: Enabling source map support in the Python Extension will adversely impact performance of the extension.
+2024-12-28 20:41:58.172 [warning] Using default string since no string found in i18n bundle that has the key: Enable and reload Window.
+2024-12-28 20:41:58.172 [warning] Using default string since no string found in i18n bundle that has the key: ▶ Launch TensorBoard Session
+2024-12-28 20:41:58.172 [warning] Using default string since no string found in i18n bundle that has the key: Launch TensorBoard session
+2024-12-28 20:41:58.644 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
+2024-12-28 20:49:16.288 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onWalkthrough:jupyterWelcome'
+2024-12-28 20:49:16.360 [warning] Using default string since no string found in i18n bundle that has the key: The security certificate used by server was not issued by a trusted certificate authority.
+This may indicate an attempt to steal your information.
+2024-12-28 20:49:16.360 [warning] Using default string since no string found in i18n bundle that has the key: The security certificate used by server has expired.
+This may indicate an attempt to steal your information.
+2024-12-28 20:49:16.360 [warning] Using default string since no string found in i18n bundle that has the key: If you have not installed xelatex (TeX), you will need to do so before you can export to PDF. For further instructions, please see https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex. 
+To avoid installing xelatex (TeX), you might want to try exporting to HTML and using your browser's "Print to PDF" feature.
+2024-12-28 20:49:16.728 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2024-12-28 20:50:38.195 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-12-28 21:00:09.770 [info] Extension host terminating: received terminate message from renderer
+2024-12-28 21:00:09.770 [info] Lock '/home/guille/.vscode-server/data/User/workspaceStorage/bf81d804f09e1deb80b5a783d09bf8f0/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-12-28 21:00:09.810 [info] Extension host with pid 7510 exiting with code 0

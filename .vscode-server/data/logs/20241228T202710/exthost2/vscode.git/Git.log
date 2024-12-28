@@ -1,0 +1,36 @@
+2024-12-28 20:39:44.568 [info] [main] Nivel de registro: Info
+2024-12-28 20:39:44.568 [info] [main] Validando git encontrado en: "git"
+2024-12-28 20:39:44.568 [info] [main] Usando git "2.43.0" de "git"
+2024-12-28 20:39:44.568 [info] [Model][doInitialScan] Initial repository scan started
+2024-12-28 20:39:44.568 [info] > git rev-parse --show-toplevel [2ms]
+2024-12-28 20:39:44.568 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-28 20:39:44.568 [info] > git rev-parse --show-toplevel [2ms]
+2024-12-28 20:39:44.568 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-28 20:39:44.569 [info] > git rev-parse --show-toplevel [0ms]
+2024-12-28 20:39:44.569 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-28 20:39:44.571 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-28 20:39:44.571 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-28 20:39:44.573 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-28 20:39:44.573 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-28 20:39:44.574 [info] > git rev-parse --show-toplevel [0ms]
+2024-12-28 20:39:44.574 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-28 20:39:44.576 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-28 20:39:44.576 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-28 20:39:44.578 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-28 20:39:44.578 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-28 20:39:44.580 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-12-28 20:39:45.777 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-28 20:39:45.777 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-28 20:41:55.302 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/guille/.vscode-server/extensions/.e8a898b9-43df-4e22-b6f0-93457d80b34c/bundled/libs/debugpy/_vendored/pydevd/_pydevd_frame_eval/". Error:Error: ENOENT: no such file or directory, realpath '/home/guille/.vscode-server/extensions/.e8a898b9-43df-4e22-b6f0-93457d80b34c/bundled/libs/debugpy/_vendored/pydevd/_pydevd_frame_eval/'
+2024-12-28 20:41:55.304 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/guille/.vscode-server/extensions/.e8a898b9-43df-4e22-b6f0-93457d80b34c/bundled/libs/debugpy/_vendored/pydevd/pydevd_attach_to_process/linux_and_mac/". Error:Error: ENOENT: no such file or directory, realpath '/home/guille/.vscode-server/extensions/.e8a898b9-43df-4e22-b6f0-93457d80b34c/bundled/libs/debugpy/_vendored/pydevd/pydevd_attach_to_process/linux_and_mac/'
+2024-12-28 20:41:57.999 [info] > git rev-parse --show-toplevel [4ms]
+2024-12-28 20:41:57.999 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-28 20:41:58.088 [info] > git rev-parse --show-toplevel [0ms]
+2024-12-28 20:41:58.088 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-28 20:49:16.198 [info] > git rev-parse --show-toplevel [5ms]
+2024-12-28 20:49:16.198 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-28 20:49:16.788 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/guille/.vscode-server/extensions/.d832b95c-1d31-4750-b09f-77e9ea022709/dist/node_modules/@aminya/node-gyp-build/". Error:Error: ENOENT: no such file or directory, realpath '/home/guille/.vscode-server/extensions/.d832b95c-1d31-4750-b09f-77e9ea022709/dist/node_modules/@aminya/node-gyp-build/'
+2024-12-28 20:49:16.790 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/guille/.vscode-server/extensions/.345671a6-4423-414f-a22d-112f97b1f5b5/". Error:Error: ENOENT: no such file or directory, realpath '/home/guille/.vscode-server/extensions/.345671a6-4423-414f-a22d-112f97b1f5b5/'
+2024-12-28 20:49:16.792 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/guille/.vscode-server/extensions/.a28ba98b-23e8-48bb-a846-84e364f760c9/". Error:Error: ENOENT: no such file or directory, realpath '/home/guille/.vscode-server/extensions/.a28ba98b-23e8-48bb-a846-84e364f760c9/'
+2024-12-28 20:50:38.194 [info] > git rev-parse --show-toplevel [48ms]
+2024-12-28 20:50:38.194 [info] fatal: not a git repository (or any of the parent directories): .git

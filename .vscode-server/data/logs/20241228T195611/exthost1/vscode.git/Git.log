@@ -1,0 +1,7 @@
+2024-12-28 19:56:12.530 [info] [main] Log level: Info
+2024-12-28 19:56:12.530 [info] [main] Validating found git in: "git"
+2024-12-28 19:56:12.530 [info] [main] Using git "2.43.0" from "git"
+2024-12-28 19:56:12.530 [info] [Model][doInitialScan] Initial repository scan started
+2024-12-28 19:56:12.530 [warning] [Model][traverseWorkspaceFolder] Unable to read workspace folder '/home/guille/Proyecto': Error: ENOENT: no such file or directory, scandir '/home/guille/Proyecto'
+2024-12-28 19:56:12.530 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/guille/Proyecto". Error:Error: ENOENT: no such file or directory, realpath '/home/guille/Proyecto'
+2024-12-28 19:56:12.530 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)

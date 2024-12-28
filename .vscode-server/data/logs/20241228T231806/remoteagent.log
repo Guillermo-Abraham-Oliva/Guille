@@ -1,0 +1,45 @@
+2024-12-28 23:18:06.493 [info] 
+
+
+
+
+2024-12-28 23:18:06.498 [info] Extension host agent started.
+2024-12-28 23:18:06.772 [info] [127.0.0.1][d779689d][ManagementConnection] New connection established.
+2024-12-28 23:18:06.896 [info] [127.0.0.1][ac724ac1][ExtensionHostConnection] New connection established.
+2024-12-28 23:18:06.943 [info] [127.0.0.1][ac724ac1][ExtensionHostConnection] <31479> Launched Extension Host Process.
+2024-12-28 23:18:06.978 [info] [127.0.0.1][ac724ac1][ExtensionHostConnection] <31479><stderr> Error reading NLS messages file /home/guille/.vscode-server/data/clp/e034c13122e263e261ba9734b10583e5.es/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/guille/.vscode-server/data/clp/e034c13122e263e261ba9734b10583e5.es/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/nls.messages.json'
+
+2024-12-28 23:25:23.733 [info] Getting Manifest... github.vscode-pull-request-github
+2024-12-28 23:25:23.936 [info] Installing extension: github.vscode-pull-request-github {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/guille/.vscode-server/extensions/extensions.json","external":"file:///home/guille/.vscode-server/extensions/extensions.json","path":"/home/guille/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-28 23:25:25.357 [info] Extension signature verification result for github.vscode-pull-request-github: Success. Executed: true. Duration: 466ms.
+2024-12-28 23:25:25.435 [info] Extracted extension to file:///home/guille/.vscode-server/extensions/github.vscode-pull-request-github-0.102.0: github.vscode-pull-request-github
+2024-12-28 23:25:25.440 [info] Renamed to /home/guille/.vscode-server/extensions/github.vscode-pull-request-github-0.102.0
+2024-12-28 23:25:25.451 [info] Extension installed successfully: github.vscode-pull-request-github file:///home/guille/.vscode-server/extensions/extensions.json
+2024-12-28 23:26:53.095 [info] [127.0.0.1][d779689d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-28 23:26:53.130 [info] [127.0.0.1][ac724ac1][ExtensionHostConnection] <31479> Extension Host Process exited with code: 0, signal: null.
+2024-12-28 23:26:55.884 [info] [127.0.0.1][609331bb][ManagementConnection] New connection established.
+2024-12-28 23:26:56.032 [info] [127.0.0.1][f4b42a6a][ExtensionHostConnection] New connection established.
+2024-12-28 23:26:56.033 [info] [127.0.0.1][f4b42a6a][ExtensionHostConnection] <33125> Launched Extension Host Process.
+2024-12-28 23:26:56.052 [info] [127.0.0.1][f4b42a6a][ExtensionHostConnection] <33125><stderr> Error reading NLS messages file /home/guille/.vscode-server/data/clp/e034c13122e263e261ba9734b10583e5.es/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/guille/.vscode-server/data/clp/e034c13122e263e261ba9734b10583e5.es/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/nls.messages.json'
+
+2024-12-28 23:42:36.536 [info] [127.0.0.1][609331bb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-28 23:42:36.565 [info] [127.0.0.1][f4b42a6a][ExtensionHostConnection] <33125> Extension Host Process exited with code: 0, signal: null.
+2024-12-28 23:42:37.435 [info] [127.0.0.1][9046d977][ManagementConnection] New connection established.
+2024-12-28 23:42:37.550 [info] [127.0.0.1][ffb2e1c6][ExtensionHostConnection] New connection established.
+2024-12-28 23:42:37.552 [info] [127.0.0.1][ffb2e1c6][ExtensionHostConnection] <35928> Launched Extension Host Process.
+2024-12-28 23:42:37.571 [info] [127.0.0.1][ffb2e1c6][ExtensionHostConnection] <35928><stderr> Error reading NLS messages file /home/guille/.vscode-server/data/clp/e034c13122e263e261ba9734b10583e5.es/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/guille/.vscode-server/data/clp/e034c13122e263e261ba9734b10583e5.es/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/nls.messages.json'
+
+2024-12-28 23:56:46.642 [info] [127.0.0.1][9046d977][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-28 23:56:46.677 [info] [127.0.0.1][ffb2e1c6][ExtensionHostConnection] <35928> Extension Host Process exited with code: 0, signal: null.
+2024-12-28 23:56:47.568 [info] [127.0.0.1][ecd140fc][ManagementConnection] New connection established.
+2024-12-28 23:56:47.666 [info] [127.0.0.1][84a18e33][ExtensionHostConnection] New connection established.
+2024-12-28 23:56:47.668 [info] [127.0.0.1][84a18e33][ExtensionHostConnection] <38570> Launched Extension Host Process.
+2024-12-28 23:56:47.687 [info] [127.0.0.1][84a18e33][ExtensionHostConnection] <38570><stderr> Error reading NLS messages file /home/guille/.vscode-server/data/clp/e034c13122e263e261ba9734b10583e5.es/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/guille/.vscode-server/data/clp/e034c13122e263e261ba9734b10583e5.es/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/nls.messages.json'
+
+2024-12-29 00:19:58.375 [info] [127.0.0.1][ecd140fc][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-29 00:19:58.425 [info] [127.0.0.1][84a18e33][ExtensionHostConnection] <38570> Extension Host Process exited with code: 0, signal: null.
+2024-12-29 00:20:00.899 [info] [127.0.0.1][742e0277][ManagementConnection] New connection established.
+2024-12-29 00:20:01.041 [info] [127.0.0.1][aa531124][ExtensionHostConnection] New connection established.
+2024-12-29 00:20:01.043 [info] [127.0.0.1][aa531124][ExtensionHostConnection] <42922> Launched Extension Host Process.
+2024-12-29 00:20:01.065 [info] [127.0.0.1][aa531124][ExtensionHostConnection] <42922><stderr> Error reading NLS messages file /home/guille/.vscode-server/data/clp/e034c13122e263e261ba9734b10583e5.es/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/guille/.vscode-server/data/clp/e034c13122e263e261ba9734b10583e5.es/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/nls.messages.json'
+
